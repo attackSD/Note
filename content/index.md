@@ -6,29 +6,17 @@ tags: [home]
 
 # 🧠 YuSen's Learning Notes
 
-歡迎來到我的線上筆記網站！這裡整理了我在不同領域的學習筆記與實驗紀錄，目前筆記分為以下幾類：
-
-## 📁 000—Project
-- [Brief Paper Summaries](000---Project/Brief-Paper-Summaries)
-- [Readout Pulse Shaping](000---Project/Readout-pulse-shaping)
-
-## 📁 100—Area
-- [Charge Dispersion](100---Area/Charge-dispersion)
-- [Cooper Pair](100---Area/Cooper-pair)
-- [Vortex](100---Area/Idea/Vortex)
-- [Parity Switch](100---Area/Parity-switch)
-- [Quasiparticle](100---Area/Quasiparticle)
-
-## 📁 200—Resources
-- [Nothing](200---Resources/Nothing)
-
-## 📁 To-do
-- [To-do List](To-do-list)
-
-## 📁 300—Archive
-- [Randomized Benchmarking](300---Archive/Control/Randomized-Benchmarking)
+## This is the every notes that I made, sorted by:
+1. Project
+    * The most important things that is processing
+2. Area
+    * The things I'm interested, but have no time to do, or maybe do it later
+3. Resources
+    * The resources help me to build up my note, or any helpful things
+4. Archive
+    * The project that had been done.
 
 ---
 
-> 📅 本頁最後更新於 2025-08-05。
+> 📅 latest update at {datetime.today().strftime("%Y-%m-%d")}。
 > 本站由 [Quartz](https://quartz.jzhao.xyz) 產生，並部署於 GitHub Pages。
