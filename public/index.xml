@@ -10,61 +10,61 @@
     <link>https://https://attackSD.github.io/Note/000---Project/Brief-Paper-Summaries</link>
     <guid>https://https://attackSD.github.io/Note/000---Project/Brief-Paper-Summaries</guid>
     <description>Model-Based Optimization of Superconducting Qubit Readout This work defined several errors by the input-output theory.</description>
-    <pubDate>Thu, 31 Jul 2025 12:48:22 GMT</pubDate>
+    <pubDate>Tue, 05 Aug 2025 08:50:41 GMT</pubDate>
   </item><item>
-    <title>Markdown</title>
-    <link>https://https://attackSD.github.io/Note/300---Archive/Markdown</link>
-    <guid>https://https://attackSD.github.io/Note/300---Archive/Markdown</guid>
-    <description>Use # to build title.</description>
-    <pubDate>Thu, 31 Jul 2025 06:59:33 GMT</pubDate>
+    <title>Nothing</title>
+    <link>https://https://attackSD.github.io/Note/200---Resources/Nothing</link>
+    <guid>https://https://attackSD.github.io/Note/200---Resources/Nothing</guid>
+    <description>Nothing here just a test.</description>
+    <pubDate>Tue, 05 Aug 2025 08:50:41 GMT</pubDate>
   </item><item>
     <title>To-do list</title>
     <link>https://https://attackSD.github.io/Note/To-do-list</link>
     <guid>https://https://attackSD.github.io/Note/To-do-list</guid>
     <description>\tau v.s.</description>
-    <pubDate>Thu, 17 Jul 2025 03:54:39 GMT</pubDate>
-  </item><item>
-    <title>The things I did</title>
-    <link>https://https://attackSD.github.io/Note/The-things-I-did</link>
-    <guid>https://https://attackSD.github.io/Note/The-things-I-did</guid>
-    <description>4 state simulation 4 state threshold and fitting HMM basic measurment DRAG pulse readout pulse shaping vortex 對 coherence 的影響 如何抑制 vortex 怎麼量出 vortex 對 coherence 的影響 如果洩氣閥的 stycast 會被擠出來 那就要給他攻螺紋，再填 stycast.</description>
-    <pubDate>Mon, 14 Jul 2025 16:19:15 GMT</pubDate>
+    <pubDate>Tue, 05 Aug 2025 04:22:31 GMT</pubDate>
   </item><item>
     <title>Readout pulse shaping</title>
     <link>https://https://attackSD.github.io/Note/000---Project/Readout-pulse-shaping</link>
     <guid>https://https://attackSD.github.io/Note/000---Project/Readout-pulse-shaping</guid>
     <description>Readout pulse shaping In the conventional readout pulse like square pulse, it takes 10\kappa^{-1} for photon to ring down.</description>
-    <pubDate>Fri, 11 Jul 2025 07:38:53 GMT</pubDate>
-  </item><item>
-    <title>Randomized Benchmarking</title>
-    <link>https://https://attackSD.github.io/Note/300---Archive/Control/Randomized-Benchmarking</link>
-    <guid>https://https://attackSD.github.io/Note/300---Archive/Control/Randomized-Benchmarking</guid>
-    <description>test.</description>
-    <pubDate>Thu, 10 Jul 2025 04:49:02 GMT</pubDate>
-  </item><item>
-    <title>Parity switch</title>
-    <link>https://https://attackSD.github.io/Note/100---Area/Parity-switch</link>
-    <guid>https://https://attackSD.github.io/Note/100---Area/Parity-switch</guid>
-    <description>Parity switch Parity is a property of qubit that resulting from quasiparticle(QP) tunneling.</description>
-    <pubDate>Wed, 09 Jul 2025 03:21:54 GMT</pubDate>
+    <pubDate>Tue, 05 Aug 2025 04:11:46 GMT</pubDate>
   </item><item>
     <title>Charge dispersion</title>
     <link>https://https://attackSD.github.io/Note/100---Area/Charge-dispersion</link>
     <guid>https://https://attackSD.github.io/Note/100---Area/Charge-dispersion</guid>
     <description>Charge dispersion In superconducting qubits, the fermionic parity leads to distinct energy levels across the Josephson junction, resulting in a frequency splitting between the two parity states—an effect known as charge dispersion.</description>
-    <pubDate>Wed, 09 Jul 2025 03:21:32 GMT</pubDate>
+    <pubDate>Tue, 05 Aug 2025 04:11:46 GMT</pubDate>
   </item><item>
     <title>Cooper pair</title>
     <link>https://https://attackSD.github.io/Note/100---Area/Cooper-pair</link>
     <guid>https://https://attackSD.github.io/Note/100---Area/Cooper-pair</guid>
     <description>Cooper pair Cooper pair consists of two electrons with opposite spins, and can be regarded as a boson that follows the Bose-Einstein distribution.</description>
-    <pubDate>Wed, 09 Jul 2025 03:19:58 GMT</pubDate>
+    <pubDate>Tue, 05 Aug 2025 04:11:46 GMT</pubDate>
+  </item><item>
+    <title>Vortex</title>
+    <link>https://https://attackSD.github.io/Note/100---Area/Idea/Vortex</link>
+    <guid>https://https://attackSD.github.io/Note/100---Area/Idea/Vortex</guid>
+    <description>Vortex Vortex is a small current induced by the magnetic field in superconductor.</description>
+    <pubDate>Tue, 05 Aug 2025 04:11:46 GMT</pubDate>
+  </item><item>
+    <title>Parity switch</title>
+    <link>https://https://attackSD.github.io/Note/100---Area/Parity-switch</link>
+    <guid>https://https://attackSD.github.io/Note/100---Area/Parity-switch</guid>
+    <description>Parity switch Parity is a property of qubit that resulting from quasiparticle(QP) tunneling.</description>
+    <pubDate>Tue, 05 Aug 2025 04:11:46 GMT</pubDate>
   </item><item>
     <title>Quasiparticle</title>
     <link>https://https://attackSD.github.io/Note/100---Area/Quasiparticle</link>
     <guid>https://https://attackSD.github.io/Note/100---Area/Quasiparticle</guid>
     <description>Quasiparticle The quasiparticle is a concept used to describe the phenomenon that non-exist particles traveling in a conductor or semi-conductor.</description>
-    <pubDate>Wed, 09 Jul 2025 03:05:16 GMT</pubDate>
+    <pubDate>Tue, 05 Aug 2025 04:11:46 GMT</pubDate>
+  </item><item>
+    <title>Randomized Benchmarking</title>
+    <link>https://https://attackSD.github.io/Note/300---Archive/Control/Randomized-Benchmarking</link>
+    <guid>https://https://attackSD.github.io/Note/300---Archive/Control/Randomized-Benchmarking</guid>
+    <description>test.</description>
+    <pubDate>Tue, 05 Aug 2025 04:11:46 GMT</pubDate>
   </item>
     </channel>
   </rss>
