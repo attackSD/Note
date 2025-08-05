@@ -33,4 +33,10 @@ This paper shows that dynamically reducing the qubit–resonator detuning Δ amp
 	* This article also demonstrate the SNR (assignment error) v.s. the photon number, which obtain the assignment error increases when $n>n_{crit}$ which the attribute nonlinearities and measurement-induced transition.
 
 #### **Benchmarking the Readout of a Superconducting Qubit for Repeated Measurements**
-1. 
+Sometimes, the leakage of non computational subspace, that is, the qubit in the state beyond $|g\rangle$ and $|e\rangle$ can not be presented by the binary threshold. Thus, this work introduce a technique, "readout-induced leakage benchmarking (RILB)" to measure this kind of leakage. They also present a 4-segements readout pulse, and compare the different parameters of pulse.
+1. Leakage in non computational subspace
+	* To quantify the readout induced leakage, the RILB is applied to measurement. RILB use a random pulse sequence with identity and $\pi$ pulse. Once the qubit is induced into non computational subspace, the $\pi$ pulse do nothing to the qubit, and compute the bit wise correlation and repeat multiple times to obtain the average success probability. 
+2. Readout calibration
+	* They optimized the four-segment pulse to minimize the readout duration for a given SNR at each readout power, two-step at first increasing the photon number faster, and the two-step at the end make the photon empty without unconditionally (independent of state of qubit). The repeatability,  success probability and QND-ness are also applied as a criteria of measurement.
+3. Conclusion
+	* They reach the fidelity $F>99.5\%$ with leakage rate $0.12\% \sim 7.76\%$, and the repeatability above $99\%$ in the binary readout. Note that, the fidelity and/or repeatability of a superconducting qubit should not be the sole optimization guideline.
