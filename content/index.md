@@ -6,7 +6,7 @@ tags: [home]
 
 # 🧠 YuSen's Learning Notes
 
-## This is the every notes that I made, sorted by:
+## These are notes that I made, sorted by:
 1. Project
     * The most important things that is processing
 2. Area
@@ -18,5 +18,5 @@ tags: [home]
 
 ---
 
-> 📅 latest update at {datetime.today().strftime("%Y-%m-%d")}。
+> 📅 latest update at 2025/08/05。
 > 本站由 [Quartz](https://quartz.jzhao.xyz) 產生，並部署於 GitHub Pages。
