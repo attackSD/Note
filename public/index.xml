@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>YuSen&#039;s learning notes</title>
+      <link>https://https://attackSD.github.io/Note/</link>
+      <description>Last 10 notes on YuSen&#039;s learning notes</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>To-do list</title>
+    <link>https://https://attackSD.github.io/Note/To-do-list</link>
+    <guid>https://https://attackSD.github.io/Note/To-do-list</guid>
+    <description>\tau v.s.</description>
+    <pubDate>Tue, 05 Aug 2025 04:22:31 GMT</pubDate>
+  </item><item>
+    <title>Brief Paper Summaries</title>
+    <link>https://https://attackSD.github.io/Note/000---Project/Brief-Paper-Summaries</link>
+    <guid>https://https://attackSD.github.io/Note/000---Project/Brief-Paper-Summaries</guid>
+    <description>Model-Based Optimization of Superconducting Qubit Readout This work defined several errors by the input-output theory.</description>
+    <pubDate>Tue, 05 Aug 2025 04:11:46 GMT</pubDate>
+  </item><item>
+    <title>Readout pulse shaping</title>
+    <link>https://https://attackSD.github.io/Note/000---Project/Readout-pulse-shaping</link>
+    <guid>https://https://attackSD.github.io/Note/000---Project/Readout-pulse-shaping</guid>
+    <description>Readout pulse shaping In the conventional readout pulse like square pulse, it takes 10\kappa^{-1} for photon to ring down.</description>
+    <pubDate>Tue, 05 Aug 2025 04:11:46 GMT</pubDate>
+  </item><item>
+    <title>Charge dispersion</title>
+    <link>https://https://attackSD.github.io/Note/100---Area/Charge-dispersion</link>
+    <guid>https://https://attackSD.github.io/Note/100---Area/Charge-dispersion</guid>
+    <description>Charge dispersion In superconducting qubits, the fermionic parity leads to distinct energy levels across the Josephson junction, resulting in a frequency splitting between the two parity states—an effect known as charge dispersion.</description>
+    <pubDate>Tue, 05 Aug 2025 04:11:46 GMT</pubDate>
+  </item><item>
+    <title>Cooper pair</title>
+    <link>https://https://attackSD.github.io/Note/100---Area/Cooper-pair</link>
+    <guid>https://https://attackSD.github.io/Note/100---Area/Cooper-pair</guid>
+    <description>Cooper pair Cooper pair consists of two electrons with opposite spins, and can be regarded as a boson that follows the Bose-Einstein distribution.</description>
+    <pubDate>Tue, 05 Aug 2025 04:11:46 GMT</pubDate>
+  </item><item>
+    <title>Vortex</title>
+    <link>https://https://attackSD.github.io/Note/100---Area/Idea/Vortex</link>
+    <guid>https://https://attackSD.github.io/Note/100---Area/Idea/Vortex</guid>
+    <description>Vortex Vortex is a small current induced by the magnetic field in superconductor.</description>
+    <pubDate>Tue, 05 Aug 2025 04:11:46 GMT</pubDate>
+  </item><item>
+    <title>Parity switch</title>
+    <link>https://https://attackSD.github.io/Note/100---Area/Parity-switch</link>
+    <guid>https://https://attackSD.github.io/Note/100---Area/Parity-switch</guid>
+    <description>Parity switch Parity is a property of qubit that resulting from quasiparticle(QP) tunneling.</description>
+    <pubDate>Tue, 05 Aug 2025 04:11:46 GMT</pubDate>
+  </item><item>
+    <title>Quasiparticle</title>
+    <link>https://https://attackSD.github.io/Note/100---Area/Quasiparticle</link>
+    <guid>https://https://attackSD.github.io/Note/100---Area/Quasiparticle</guid>
+    <description>Quasiparticle The quasiparticle is a concept used to describe the phenomenon that non-exist particles traveling in a conductor or semi-conductor.</description>
+    <pubDate>Tue, 05 Aug 2025 04:11:46 GMT</pubDate>
+  </item><item>
+    <title>Randomized Benchmarking</title>
+    <link>https://https://attackSD.github.io/Note/300---Archive/Control/Randomized-Benchmarking</link>
+    <guid>https://https://attackSD.github.io/Note/300---Archive/Control/Randomized-Benchmarking</guid>
+    <description>test.</description>
+    <pubDate>Tue, 05 Aug 2025 04:11:46 GMT</pubDate>
+  </item><item>
+    <title>Markdown</title>
+    <link>https://https://attackSD.github.io/Note/300---Archive/Markdown</link>
+    <guid>https://https://attackSD.github.io/Note/300---Archive/Markdown</guid>
+    <description>Use # to build title.</description>
+    <pubDate>Tue, 05 Aug 2025 04:11:46 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
