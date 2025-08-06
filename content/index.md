@@ -18,5 +18,5 @@ tags: [home]
 
 ---
 
-> 📅 latest update at 2025/08/05。
+> 📅 latest update at 2025/08/06。
 > 本站由 [Quartz](https://quartz.jzhao.xyz) 產生，並部署於 GitHub Pages。

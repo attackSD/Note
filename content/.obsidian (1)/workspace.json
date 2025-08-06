@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "1c58ca07bf6f7008",
+    "type": "split",
+    "children": [
+      {
+        "id": "36591d458db8718b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25a1a3e833f6fc31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 - Area/Parity switch.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Parity switch"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3fbd37d3c157ca0",
+    "type": "split",
+    "children": [
+      {
+        "id": "38fb4e9b42aba4f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afbfcbb53adb13d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "cbd657feece402d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "d2c88486ef06d309",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f69db92bd538649c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0c925c3ccde9b78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3fcfab8cc730f87",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "To-do list.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "To-do list 的反向連結"
+            }
+          },
+          {
+            "id": "4198918d5cfe9840",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "To-do list.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "To-do list 的對外連結"
+            }
+          },
+          {
+            "id": "c3633db73b01017f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "6d5997dac8c29f10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "To-do list.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "To-do list 的大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "25a1a3e833f6fc31",
+  "lastOpenFiles": [
+    "100 - Area/Charge dispersion.md",
+    "100 - Area/Parity switch.md",
+    "index.md",
+    "200 - Resources/Markdown.md",
+    "300 - Archive/Control/Randomized Benchmarking.md",
+    "300 - Archive/Control/Drag pulse.md",
+    "200 - Resources/Nothing.md",
+    "000 - Project/Brief Paper Summaries.md",
+    "000 - Project/Readout pulse shaping.md",
+    "100 - Area/Idea/Vortex.md",
+    "100 - Area/Cooper pair.md",
+    "100 - Area/Quasiparticle.md",
+    "Note to GithHub/歡迎.md",
+    "To-do list.md"
+  ]
+}

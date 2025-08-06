@@ -1,12 +1,6 @@
 ---
-title: The brief introduction to DRAG pulse
-author: 魏宇森
-date: 2025-04-21
-institute: National Central University, Department of Physics
-share_link: https://share.note.sx/f555ggev#aY4nbhDr9zCVOZKvU0SlDsO/GRTAcgwxQr58RI2JAe0
-share_updated: 2025-07-09T11:21:10+08:00
+Update-date: 2025/XX/XX
 ---
-
 ### Drag pulse
 &nbsp; The Derivative Removal by Adiabatic Gate (DRAG) is an analytical method designed to improve gate fidelity by reducing leakage errors^[F. Motzoi et al., Physical Review Letters 103, 110501 (2009)]. In contrast, the GRAPE pulse employs numerical optimization using the gradient descent algorithm to determine the optimal parameters that minimize leakage.
 

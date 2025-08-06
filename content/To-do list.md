@@ -1,8 +1,4 @@
-$\tau$ v.s. separation fidelity with
-1. Square pulse
-2. Gaussian pulse
-3. DRACHMA in ground
-4. DRACHMA in ground and excite
+Ask 力捷 the type of the mixing chamber shield in LXD1000
 
 How to measurement coupler frequency flux spectrum 
 1. Use the interaction between resonator and coupler 
