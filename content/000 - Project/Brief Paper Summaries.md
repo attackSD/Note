@@ -1,7 +1,3 @@
----
-Update-date: 2025/08/05
----
-
 #### **Model-Based Optimization of Superconducting Qubit Readout**
 This work defined several errors by the input-output theory. Also, this work build up a model to optimize the readout errors, and apply the ex situ optimization by snake optimizer.
 1. Error Modeling

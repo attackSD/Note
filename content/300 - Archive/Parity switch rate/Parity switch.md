@@ -1,7 +1,3 @@
----
-Update-date: 2025/08/06
----
-
 ### Parity switch
 Parity is a property of qubit that resulting from [[Quasiparticle|quasiparticle(QP)]] tunneling. Similar to the ground state and excited state, parity also has two states: odd and even. The difference between of these states is the number of QPs in the island of Josephson junction is odd or even. The parity changes when the breaking of Cooper pairs produce QPs. In other words, the QP induced the parity changes.
 

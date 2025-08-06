@@ -1,6 +1,3 @@
----
-Update-date: 2025/XX/XX
----
 ### Drag pulse
 &nbsp; The Derivative Removal by Adiabatic Gate (DRAG) is an analytical method designed to improve gate fidelity by reducing leakage errors^[F. Motzoi et al., Physical Review Letters 103, 110501 (2009)]. In contrast, the GRAPE pulse employs numerical optimization using the gradient descent algorithm to determine the optimal parameters that minimize leakage.
 

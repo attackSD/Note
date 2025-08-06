@@ -1,6 +1,3 @@
----
-Update-date: 2025/07/XX
----
 ### Readout pulse shaping
 ![[Pulse shaping intro.png]]
 In the conventional readout pulse like square pulse, it takes $10\kappa^{-1}$ for photon to ring down. However, by the input output theory, we can derive the input signal with given response function of photon $a_T(t)$^[M. Jerger et al., arXiv:2406.04891 (2024)]]:

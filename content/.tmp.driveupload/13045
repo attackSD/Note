@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "712e903d717ddbaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4e2a929ca5e16c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6c8a0117eab0dd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f75a13100f74929",
+    "type": "split",
+    "children": [
+      {
+        "id": "d39285c9ac723901",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c30865207d1f47ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "416d45e4f8445961",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "72037e557deb4907",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d482aab94d9ff5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "356b7b84824e08f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1153665cb81d4812",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000 - Project/Brief Paper Summaries.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Brief Paper Summaries 的反向連結"
+            }
+          },
+          {
+            "id": "e577997ac9411686",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "000 - Project/Brief Paper Summaries.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Brief Paper Summaries 的對外連結"
+            }
+          },
+          {
+            "id": "5bedb1bcb1b15c3b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "ec87161b9bf27143",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "000 - Project/Brief Paper Summaries.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Brief Paper Summaries 的大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "d6c8a0117eab0dd5",
+  "lastOpenFiles": [
+    "300 - Archive/Parity switch rate/Quasiparticle.md",
+    "300 - Archive/Parity switch rate/Parity switch.md",
+    "300 - Archive/Parity switch rate/HMM fitting.md",
+    "300 - Archive/Parity switch rate/Cooper pair.md",
+    "300 - Archive/Parity switch rate/Charge dispersion.md",
+    "300 - Archive/Control/Drag pulse.md",
+    "300 - Archive/Control/Randomized Benchmarking.md",
+    "200 - Resources/Nothing.md",
+    "200 - Resources/Markdown.md",
+    "100 - Area/Idea/Vortex.md",
+    "000 - Project/Readout pulse shaping.md",
+    "000 - Project/Brief Paper Summaries.md",
+    "index.md",
+    "To-do list.md",
+    "300 - Archive/Parity switch rate",
+    "Media/Parity switch rate/parity source.png",
+    "Media/Parity switch rate/HMM fit.png",
+    "Media/Parity switch rate"
+  ]
+}
