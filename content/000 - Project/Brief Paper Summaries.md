@@ -10,7 +10,7 @@ This work defined several errors by the input-output theory. Also, this work bui
 	* Automatically generate a unique, optimized pulse shape for each qubit, reducing the average readout error rate from ~1.9% to ~1.5% and suppressing both reset errors and leakage. 
 
  > [!note] Note
- > There is a model called "Heuristic model" which include the measurment-induced state transition
+ > There is a model called "Heuristic model" which include the measurement-induced state transition
 
 #### **Enhancing Dispersive Readout of Superconducting Qubits through Dynamic Control of the Dispersive Shift: Experiment and Theory**
 This paper shows that dynamically reducing the qubit–resonator detuning Δ amplifies the dispersive shift χ, leading to higher readout SNR. A combined theoretical model (input–output theory + qubit–resonator–Purcell filter Hamiltonian) and experiment explore:
@@ -40,3 +40,6 @@ Sometimes, the leakage of non computational subspace, that is, the qubit in the 
 	* They optimized the four-segment pulse to minimize the readout duration for a given SNR at each readout power, two-step at first increasing the photon number faster, and the two-step at the end make the photon empty without unconditionally (independent of state of qubit). The repeatability,  success probability and QND-ness are also applied as a criteria of measurement.
 3. Conclusion
 	* They reach the fidelity $F>99.5\%$ with leakage rate $0.12\% \sim 7.76\%$, and the repeatability above $99\%$ in the binary readout. Note that, the fidelity and/or repeatability of a superconducting qubit should not be the sole optimization guideline.
+
+#### Rapid Driven Reset of a Qubit Readout Resonator
+1. 
