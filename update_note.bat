@@ -7,6 +7,7 @@ REM Settings
 REM ========================
 set BUILD_BEFORE_PUSH=0
 set NODE_BUILD_CMD=npx quartz build
+set SITE_URL=https://attackSD.github.io/Note/
 
 REM ========================
 REM Helpers
@@ -77,6 +78,9 @@ if errorlevel 1 (
 )
 
 echo.
-echo 完成！已推送至遠端，GitHub Actions（監聽 v4）將自動建置並部署到 Pages。
-echo 網站網址: https://attackSD.github.io/Note/
+echo ✅ 完成！已推送至遠端，GitHub Actions（監聽 v4）將自動建置並部署到 Pages。
+echo 🌐 網站網址: %SITE_URL%
+echo.
+start "" "%SITE_URL%"
+
 endlocal
