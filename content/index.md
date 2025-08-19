@@ -16,6 +16,10 @@ tags: [home]
 4. Archive
     * The project that had been done.
 
+The current project are:
+1. [[Optimal Readout Pulse for Superconducting Qubit within Operation Time]]
+2. [[To-do list]]
+
 ---
 
 > 📅 latest update at 2025/08/19。
