@@ -1,9 +1,13 @@
 ## Introduction
 &ensp; Fast and high-fidelity readout is essential for quantum error correction and quantum computational algorithms. Recent studies have demonstrated fast readout pulses achieve $\sim50 \text{ns}$ integration time with fidelity $F\gt 99\%$. Well-designed circuit parameters provide a highly favorable setting for measurement, such as $\kappa = 2\chi$, large effective $\kappa$, and the inclusion of a Purcell filter.
 
-&ensp; Conventional readout pulses, such as square and Gaussian pulses, require longer cavity ring-down times—especially in fast readout setups.   For instance, with an integration time of $50\,\mathrm{ns}$ and a typical photon decay time of $10\kappa^{-1} \approx 200\,\mathrm{ns}$, the system effectively requires more than $200\,\mathrm{ns}$ before the next operation can be executed.  This delay is often not accounted for in many fast readout studies. To address this, we define the **operation window** as the time between the pulse onset and the complete relaxation of photons. This definition ensures that any subsequent operation is allowed only after the operation window ends.   Under the constraint of a fixed operation window, it becomes necessary to compare different pulse shapes in order to optimize the readout performance, rather than relying on conventional square pulses.
+&ensp; Conventional readout pulses, such as square and Gaussian pulses, require longer cavity ring-down times—especially in fast readout setups.   For instance, with an integration time of $50\,\mathrm{ns}$ and a typical photon decay time of $10\kappa^{-1} \approx 200\,\mathrm{ns}$, the system effectively requires more than $200\,\mathrm{ns}$ before the next operation can be executed.  This delay is often not accounted for in many fast readout studies. To address this, we define the **operation window** $T_{op}=T_{pulse}+T_{tail}$ as the time between the pulse onset and the complete relaxation of photons. This definition ensures that any subsequent operation is allowed only after the operation window ends.   Under the constraint of a fixed operation window, it becomes necessary to compare different pulse shapes in order to optimize the readout performance, rather than relying on conventional square pulses.
 
 &ensp; We perform four pulses such as gaussian, square, DEACHMA [ref1] and four segments pulses [ref2] in the same operation windows with the criteria of total readout fidelity, signal-to-noise ration (SNR), QNDness, repeatability [ref3], leakage rate and readout-induced leakage error.
 
 ## Readout pulse shaping
-&ensp; The 
+&ensp; The introduction of four readout pulses
+
+## Experiment
+&ensp; Apply the readout pulses with a certain operation window, compare the integration time v.s fidelity (maybe leakage error as second axis) of different pulses.
+&ensp; First, consider the case that the integration time is the same as pulse length. There are 2D maps that the horizontal axis is the operation window, and the vertical axis is the amplitude, the z axis is the fidelity (or leakage rate). Second, fix the operation window and compare the 
