@@ -16,11 +16,11 @@ tags: [home]
 4. Archive
     * The project that had been done.
 
-## The current project are:
+## The current projects are:
 1. [[Optimal Readout Pulse for Superconducting Qubit within Operation Time]]
 2. [[To-do list]]
 
 ---
 
-> 📅 latest update at 2025/08/19。
+> 📅 latest update at 2025/08/20。
 > 本站由 [Quartz](https://quartz.jzhao.xyz) 產生，並部署於 GitHub Pages。
