@@ -18,7 +18,8 @@ tags: [home]
 
 ## The current projects are:
 1. [[Optimal Readout Pulse for Superconducting Qubit within Operation Time]]
-2. [[To-do list]]
+2. [[Readout-induced leakage benchmarking]]
+3. [[To-do list]]
 
 ---
 
