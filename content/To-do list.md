@@ -28,7 +28,5 @@ Todo
 
 TPS registration
 
-Derive input-output theory
-Learn Qblox pulse schedule
-Learn Qblox experiment process
-Read paper
+To see the relation between the length and frequency of resonator
+To see where is the limit that the distance between parallel part of resonator will affect the resonance frequency

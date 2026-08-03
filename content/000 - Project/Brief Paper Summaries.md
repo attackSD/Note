@@ -41,5 +41,8 @@ Sometimes, the leakage of non computational subspace, that is, the qubit in the 
 3. Conclusion
 	* They reach the fidelity $F>99.5\%$ with leakage rate $0.12\% \sim 7.76\%$, and the repeatability above $99\%$ in the binary readout. Note that, the fidelity and/or repeatability of a superconducting qubit should not be the sole optimization guideline.
 
-#### Rapid Driven Reset of a Qubit Readout Resonator
-1. 
+#### Tunable Coupler for Realizing a Controlled-Phase Gate with Dynamically Decoupled Regime in a Superconducting Circuit
+1. Coupler
+	* Using the coupler to made the coupling between qubits to "off" or "on", this operation can reduce parasitic ZZ crosstalk.
+2. CZ gate
+	* this technique allows the qubit-qubit interaction to be only "on" at the usual operating point (where the two qubit states |11> and |20> are resonant), while dynamically "off" during the tuning process.

@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "000 - Project/Brief Paper Summaries.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Brief Paper Summaries"
@@ -171,8 +171,9 @@
   },
   "active": "9bd7ff906094965a",
   "lastOpenFiles": [
-    "000 - Project/Optimal Readout Pulse for Superconducting Qubit within Operation Time.md",
+    "To-do list.md",
     "000 - Project/Brief Paper Summaries.md",
+    "000 - Project/Optimal Readout Pulse for Superconducting Qubit within Operation Time.md",
     "ExportFile/Randomized Benchmarking.pdf",
     "ExportFile/Drag pulse.pdf",
     "300 - Archive/Parity switch rate/Charge dispersion.md",
@@ -186,7 +187,6 @@
     "100 - Area/Quasiparticle.md",
     "index.md",
     "200 - Resources/Nothing.md",
-    "To-do list.md",
     "The things I did.md",
     "000 - Project/Readout-induced leakage benchmarking.md",
     "Readout.md",
